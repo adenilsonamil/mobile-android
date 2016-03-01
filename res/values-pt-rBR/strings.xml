@@ -92,7 +92,7 @@
   <string name="AttachedPhoto">Foto anexada</string>
   <string name="Warning">Alerta</string>
   <string name="PostError">Erro ao postar uma atividade.</string>
-  <string name="ErrorOnLike">Você pode não Curtir desta atividade.</string>
+  <string name="ErrorOnLike">Você pode não Curtir esta atividade.</string>
   <string name="ConnectionError">A rede não pode ser alcançada.</string>
   <string name="LoadingDataError">Erro ao carregar dados.</string>
   <string name="DoNotHavePermision">Você não têm permissão para isso porque nenhum cartão SD está disponível.</string>
@@ -115,20 +115,20 @@
   <string name="EmptyDashboard">Você não possui nenhum gadget no seu app</string>
   <string name="EmptyActivity">Nenhuma atividade foi postada no seu mural de atividades ainda</string>
   <string name="EmptyComment">Ninguém comentou, seja o primeiro</string>
-  <string name="HasEditWikiPage"> editou a página de Wiki:</string>
-  <string name="HasCreatWikiPage"> criou a página Wiki:</string>
-  <string name="HasPostedAnewTopic"> postou um novo tópico:</string>
-  <string name="HasUpdateAnewTopic"> atualizou um tópico:</string>
-  <string name="HasAddANewPost"> foi adicionado um novo post:</string>
-  <string name="HasUpdateANewPost"> atualizou um post:</string>
-  <string name="HasAskAnswer"> perguntou:</string>
-  <string name="HasUpdatedQuestion"> atualizou a pergunta: </string>
-  <string name="HasAnswerQuestion"> respondeu à pergunta:</string>
-  <string name="AddedAnEvent"> adicionou um evento:</string>
-  <string name="UpdatedAnEvent"> acabou de atualizar o evento:</string>
-  <string name="AddedATask"> adicionou uma tarefa:</string>
-  <string name="UpdatedATask"> acabou de atualizar a tarefa:</string>
-  <string name="DocumentRenameTitle">Renomear Pasta</string>
+  <string name="HasEditWikiPage"> Editou a página de Wiki:</string>
+  <string name="HasCreatWikiPage"> Criou a página Wiki:</string>
+  <string name="HasPostedAnewTopic"> Postou um novo tópico:</string>
+  <string name="HasUpdateAnewTopic"> Atualizou um tópico:</string>
+  <string name="HasAddANewPost"> Foi adicionado um novo post:</string>
+  <string name="HasUpdateANewPost"> Atualizou um post:</string>
+  <string name="HasAskAnswer"> Perguntou:</string>
+  <string name="HasUpdatedQuestion"> Atualizou a pergunta: </string>
+  <string name="HasAnswerQuestion"> Respondeu à pergunta:</string>
+  <string name="AddedAnEvent"> Adicionou um evento:</string>
+  <string name="UpdatedAnEvent"> Acabou de atualizar o evento:</string>
+  <string name="AddedATask"> Adicionou uma tarefa:</string>
+  <string name="UpdatedATask"> Acabou de atualizar a tarefa:</string>
+  <string name="DocumentRenameTitle">Renomear pasta</string>
   <string name="DocumentRenameContent">Digite um novo nome:</string>
   <string name="DocumentCreateTitle">Criar pasta</string>
   <string name="DocumentCreateContent">Digite o nome da pasta:</string>
@@ -145,7 +145,7 @@
   <string name="CalendarStart">Hora de início:</string>
   <string name="CalendarEnd">Hora de término:</string>
   <string name="In"> em</string>
-  <string name="Space"> espaço</string>
+  <string name="Space"> Espaço</string>
   <string name="Personal">Pessoal</string>
   <string name="Group">Grupo</string>
   <string name="General">Geral</string>
@@ -168,7 +168,7 @@
   <string name="SkipStep">ou ignorar isso por enquanto</string>
   <string name="Or">ou</string>
 
-  <string name="SliderDesc1">fluxos de atividade</string>
+  <string name="SliderDesc1">Fluxos de atividade</string>
   <string name="SliderDesc2">Comentários e curtidas</string>
   <string name="SliderDesc3">Dashboard Pessoal</string>
   <string name="SliderDesc4">Gerenciamento de arquivos</string>
@@ -206,8 +206,8 @@
   <string name="EnterUrl">Digite a URL de sua intranet</string>
   <string name="EnterLogin">Insira suas credenciais e Login</string>
   <string name="YourIntranetHint">http://www.mycompany.com/intranet</string>
-  <string name="PasswordHint">senha</string>
-  <string name="UserNameHint">nome de usuário</string>
+  <string name="PasswordHint">Senha</string>
+  <string name="UserNameHint">Nome de usuário</string>
 
   <!-- Setting -->
   <string name="RememberMe">Lembre de mim</string>
