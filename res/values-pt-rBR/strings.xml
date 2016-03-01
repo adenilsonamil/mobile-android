@@ -193,7 +193,7 @@
 
   <!-- Sign In -->
   <string name="EmailSignIn">Insira suas credenciais e Login:</string>
-  <string name="ConnectOnPremise">Conectar-se a uma instalação no Local</string>
+  <string name="ConnectOnPremise">Conectar-se a uma instalação Local</string>
   <string name="ServerNotAvailable">Impossível de se conectar à sua intranet, por favor, verifique a sua URL ou contate o administrador.</string>
   <string name="InvalidCredentials">Impossível conectar, verifique o seu nome de usuário e senha.</string>
   <string name="NoAccountExists">No account exists for this email, check your email or signup.</string>
@@ -202,7 +202,7 @@
 
 
   <!-- On Premise -->
-  <string name="OnPremise">On Premise</string>
+  <string name="OnPremise">Local</string>
   <string name="EnterUrl">Digite a URL de sua intranet</string>
   <string name="EnterLogin">Insira suas credenciais e Login</string>
   <string name="YourIntranetHint">http://www.mycompany.com/intranet</string>
